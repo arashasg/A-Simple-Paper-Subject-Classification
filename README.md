@@ -14,4 +14,4 @@ For the model, First, I merged all the papers and found the frequency of each wo
 I used the papers in the test set to evaluate this approach and achieved an accuracy of 76 percent on the test set.
 Here I have presented the confusion matrix of the model predictions:
 
-![alt text](https://github.com/arashasg/A-Simple-Paper-Subject-Classification/blob/main/img/Capture.PNG?raw=true)
+![Confusion Matrix Image](https://github.com/arashasg/A-Simple-Paper-Subject-Classification/blob/main/img/Capture.PNG?raw=true)
